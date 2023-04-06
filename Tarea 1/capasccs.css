@@ -1,0 +1,227 @@
+
+.pikachu {
+    background-image: url("https://i.pinimg.com/originals/b8/83/fc/b883fc84b57235e6fe57f409716ae68d.gif");
+    background-repeat: no-repeat;
+}
+
+.cielo{
+    background-image: url("https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2021/01/cielo-azul-2207291.jpg");
+    background-repeat: no-repeat;
+}
+
+.mesa{
+    
+    background-image: url("https://static-cse.canva.com/blob/602964/zoombackgroundsbanner.png");
+}
+
+
+
+
+
+
+
+
+.ctitulo {
+    color: chartreuse;
+    text-align: center;
+    padding-top: 15px;
+    margin:0;
+}
+
+.cabecera{
+    background: rgba(0, 0, 0, 0.7);
+    height: 10vh;
+    border: 5px solid ;
+    border-radius: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contenedor{
+    display: flex;
+    height: 1000px;
+}
+
+.menu{
+    background: rgba(38, 241, 255, 0.7);
+    width: 15%;
+}
+
+.content{
+    background: rgba(199, 199, 199, 0.8);
+	width: 65%;
+    text-indent: 15px;
+    direction: ltr;
+}
+
+
+
+
+.ipersonal{
+    display: flex;
+    width: 20%;
+}
+
+.caja{
+    background: rgba(199, 199, 199, 0.8);
+    width: 100%;
+    
+}
+
+.imagen{
+    width: 60%;
+    height: 35%;
+    text-indent: 80px;
+    margin-top: 15px;
+}
+
+.informacionp{
+
+    height: 65%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.juntarimagen{
+    display: flex;
+    width: 600px;
+    height: 200px;
+}
+
+.juntarimagen2{
+    display: flex;
+    width: 1200px;
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+.hcontenedor{
+    display: flex;
+    height: 1250px;
+}
+
+.hmenu{
+    background: rgba(38, 241, 255, 0.7);
+    width: 15%;
+}
+
+.hcontent{
+    background: rgba(199, 199, 199, 0.8);
+	width: 85%;
+    text-indent: 15px;
+    direction: ltr;
+}
+
+
+
+
+
+
+
+.pcontent{
+    background: rgba(199, 199, 199, 0.8);
+	width: 85%;
+    text-indent: 15px;
+    direction: ltr;
+    
+}
+
+.pvideo{
+    margin-top: 125px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul li{
+
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+ul li a{
+
+    text-decoration: none;
+    color: black;
+}
+
+ul li :hover{
+    background-color: #5500ff3c;
+    color: rgb(255, 255, 255);
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+
+
+
+
+.active{
+    background-color: #5000f0;
+    color: white !important;
+}
+
+
+
+
